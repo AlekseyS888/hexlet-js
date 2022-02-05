@@ -1,0 +1,19 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "��W\u0000h\u0000a\u0000t\u0000?\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlekseyS888/hexlet-js.git"
+  },
+  "author": "aleks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlekseyS888/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/AlekseyS888/hexlet-js#readme"
+}
